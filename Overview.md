@@ -2,7 +2,7 @@
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on the left corner of the navigation bar.
 
-As you may know, Unity projects can be easy to port to different platforms or (in the case of VR) to different SDKs. Windows Mixed Reality is no exception. but pending what platform you are coming from, there might be new terminology, or editor and/or store differences that you might want to know about. This paper will try to explain these in order to make your porting experience more effective.
+As you may know, Unity projects can be easy to port to different platforms or (in the case of VR) to different SDKs. Windows Mixed Reality is no exception. Depending what platform you are coming from, there might be new terminology, or editor and/or store differences that you might want to know about. This document covers these important differences in order to make your porting experience more effective.
 
 If you are thinking of porting your experience to Windows MR, these are the key steps you should understand and follow:  
 <![if !supportLineBreakNewLine]>  
@@ -147,5 +147,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDk3ODYxNl19
+eyJoaXN0b3J5IjpbNTM5NTYwNDM0XX0=
 -->
