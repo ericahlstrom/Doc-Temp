@@ -4,9 +4,9 @@ As you may know, Unity projects can be easy to port to different platforms or (i
 If you are thinking of porting your current Unity VR project to Windows Mixed Reality (Windows MR), these are the key steps you should understand and follow:  
 
 
-# Files
+## Common Terms
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+**Windows Mixed Reality** - Microsoft's term for all thing
 
 ## Create files and folders
 
@@ -143,5 +143,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTA1MDY2XX0=
+eyJoaXN0b3J5IjpbLTE3NjU5ODM3NzRdfQ==
 -->
