@@ -19,10 +19,10 @@ Users can adjust the scale and rotation of your 3D Launcher in addition to placi
 ## Set the Background Color
 Whether you use a 3D Launcher or not, you should consider setting the splash background color something that matches your app's colors. Besides the 2D Launcher, the splash background color is also used in the launch animation of an app.
 
-Here is a 
+Here is a screen grab of the launch animation showing the orange splash background color set by the app:
 ![enter image description here](https://raw.githubusercontent.com/ericahlstrom/Doc-Temp/master/images/4-BackgroundColor.jpg)
 
-By default, the background color is set to white.
+By default, the background color is set to white. To set the splash background color
 
 ## Define a Splash Image
 
@@ -36,5 +36,5 @@ By default, the background color is set to white.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzIzMzkwMzddfQ==
+eyJoaXN0b3J5IjpbLTExMTE3OTA3NTldfQ==
 -->
