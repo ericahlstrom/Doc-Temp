@@ -12,6 +12,18 @@ Before
 
 **Cliff House** - Nickname for the VR desktop environment/experience within the Mixed Reality Portal where users launch MR apps and customize their space.
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Create files and folders
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
@@ -147,5 +159,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTk4MTI0N119
+eyJoaXN0b3J5IjpbLTIyNzI2NDUzNV19
 -->
