@@ -3,8 +3,11 @@ Let's cover a handful of smaller items that you will want to consider for your a
 
 ## App Launchers
 When a user launches your app from the Cliff House there are two different "launchers" that can be presented. The default launcher is a 2D launcher. It looks like a flat window slate and displays the app's splash image over the splash screen background color.
+
 Here's a wide shot of a 2D Launcher:
-![2D Launcher](https://github.com/ericahlstrom/Doc-Temp/blob/master/images/4-2DLauncher.jpg)
+![2D Launcher](https://raw.githubusercontent.com/ericahlstrom/Doc-Temp/master/images/4-2DLauncher.jpg)
+Here's a closer look:
+![enter image description here](https://raw.githubusercontent.com/ericahlstrom/Doc-Temp/master/images/4-2DLauncher2.jpg)
 
 ## Background Color
 
@@ -18,5 +21,5 @@ Here's a wide shot of a 2D Launcher:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwOTA0NzkzXX0=
+eyJoaXN0b3J5IjpbMTE1NDQ3NDcxMl19
 -->
