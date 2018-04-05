@@ -1,9 +1,9 @@
 # Windows Mixed Reality Porting Guide for Unity
 As you may know, Unity projects can be easy to port to different platforms or (in the case of VR) to different SDKs. Windows Mixed Reality is no exception. Depending what platform you are coming from, there might be new terminology, or editor and/or store differences that you might want to know about. This document covers these important differences in order to make your porting experience more effective.
 
-If you are thinking of porting your current Unity VR project to Windows Mixed Reality (Windows MR), these are the key steps we will walk through to make the process as smooth you should understand and follow:  
+If you are thinking of porting your current Unity VR project to Windows Mixed Reality (Windows MR), these are the key steps we will walk through to make the process as smooth as possible:  
 
-- **Setup** - goes through hardware and software requirements as well 
+- **Setup** - We go getting familiar with the platform and cover hardware and software requirements as well 
 
 ## Terms To Get Familiar With
 
@@ -160,5 +160,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjIzNjI5OF19
+eyJoaXN0b3J5IjpbMTk4NjQyMjcxXX0=
 -->
