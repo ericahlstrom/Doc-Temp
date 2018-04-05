@@ -13,7 +13,8 @@ The 2D Launcher is defined by the splash screen image and the splash background 
 Unique to the Mixed Reality Portal is the 3D Launcher. Once defined in your package manifest file, this replaces the default 2D Launcher with a 3D object of your own design.
 
 Here is a sample 3D Launcher:
-
+![Placeholder](https://raw.githubusercontent.com/ericahlstrom/Doc-Temp/master/images/Placeholder.jpg)
+Users can 
 
 ## Set the Background Color
 
@@ -29,5 +30,5 @@ Here is a sample 3D Launcher:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE5OTIxMTBdfQ==
+eyJoaXN0b3J5IjpbMTUwMzE5OTA4NV19
 -->
