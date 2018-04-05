@@ -3,7 +3,8 @@ As you may know, Unity projects can be easy to port to different platforms or (i
 
 If you are thinking of porting your current Unity VR project to Windows Mixed Reality (Windows MR), these are the key steps we will walk through to make the process as smooth as possible:  
 
-- **Setup** - We go getting familiar with the platform and cover hardware and software requirements as well 
+- **Setup** - We get familiar with the platform and cover hardware and software requirements.
+- **Runtime** - A chance to understand how WinMR works 
 
 ## Terms To Get Familiar With
 
@@ -160,5 +161,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NjQyMjcxXX0=
+eyJoaXN0b3J5IjpbLTk4MDcwMTI4OF19
 -->
