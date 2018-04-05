@@ -23,7 +23,10 @@ Here is a screen grab of the launch animation showing the orange splash backgrou
 ![enter image description here](https://raw.githubusercontent.com/ericahlstrom/Doc-Temp/master/images/4-BackgroundColor.jpg)
 
 By default, the background color is set to white. Currently, the background color options in Unity Player Settings for Splash Image do not get set for Windows UWP. To set the splash background color:
- 1. Build Unity project to Visual Studio
+ 1. Build Unity project and open exported Visual Studio project
+ 2. Open the Package Manifest file
+ 3. Select Visual Assets from the top tabs
+ 4. Click Splash Image from option on the lef
 
 ## Define a Splash Image
 
@@ -37,5 +40,5 @@ By default, the background color is set to white. Currently, the background colo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjQyNTAxNV19
+eyJoaXN0b3J5IjpbLTE1MzIyODc2OV19
 -->
