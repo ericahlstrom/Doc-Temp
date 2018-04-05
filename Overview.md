@@ -8,7 +8,9 @@ Before
 
 **Windows Mixed Reality** - Microsoft's term for all things between augmented reality and virtual reality. 
 
-**Mixed Reality Portal** - Athat is a user's home for mixed reality experiences. 
+**Mixed Reality Portal** - Desktop app that manages mixed reality experiences on Windows 10. Typically auto-starts when a supported headset is plugged into the PC.
+
+**Cliff House** -  
 
 ## Create files and folders
 
@@ -145,5 +147,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDQ4ODIzNF19
+eyJoaXN0b3J5IjpbLTE4NTEyNjEyOTVdfQ==
 -->
