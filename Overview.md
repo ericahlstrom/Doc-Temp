@@ -6,7 +6,9 @@ If you are thinking of porting your current Unity VR project to Windows Mixed Re
 
 ## Common Terms
 
-**Windows Mixed Reality** - Microsoft's term for all thing
+**Windows Mixed Reality** - Microsoft's term for all things between augmented reality and virtual reality. 
+
+**Mixed Reality Portal** - The mixed reality de
 
 ## Create files and folders
 
@@ -143,5 +145,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU5ODM3NzRdfQ==
+eyJoaXN0b3J5IjpbLTE5Nzk0ODY3NzBdfQ==
 -->
