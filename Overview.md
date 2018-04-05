@@ -6,11 +6,11 @@ If you are thinking of porting your current Unity VR project to Windows Mixed Re
 Before 
 ## Common Terms
 
-**Windows Mixed Reality** - Microsoft's term for all things between augmented reality and virtual reality. 
+**Windows Mixed Reality** (WinMR) - Microsoft's term for all things between augmented reality and virtual reality. 
 
-**Mixed Reality Portal** - Desktop app that manages mixed reality experiences on Windows 10. Typically auto-starts when a supported headset is plugged into the PC.
+**Mixed Reality Portal** (MRP) - Desktop app that manages mixed reality experiences on Windows 10. Typically auto-starts when a supported headset is plugged into the PC.
 
-**Cliff House** -  
+**Cliff House** - Nickname for the open concept environment within the Mixed Reality 
 
 ## Create files and folders
 
@@ -147,5 +147,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTEyNjEyOTVdfQ==
+eyJoaXN0b3J5IjpbLTE5OTI5Nzk3OV19
 -->
