@@ -17,7 +17,10 @@ Here is a sample 3D Launcher:
 Users can adjust the scale and rotation of your 3D Launcher in addition to placing it wherever they desire within the Cliff House environment. 
 
 ## Set the Background Color
-Whether you use a 3D Launcher or not, you should consider setting the splash background color something that matches your app's 
+Whether you use a 3D Launcher or not, you should consider setting the splash background color something that matches your app's colors. Besides the 2D Launcher, the splash background color is also used in the launch animation of
+
+
+By default, the background color is set to white.
 
 ## Define a Splash Image
 
@@ -31,5 +34,5 @@ Whether you use a 3D Launcher or not, you should consider setting the splash bac
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxNTE0MDIyXX0=
+eyJoaXN0b3J5IjpbLTE2MTEwMjE4MTddfQ==
 -->
