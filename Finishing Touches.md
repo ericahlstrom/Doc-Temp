@@ -8,8 +8,9 @@ Here's a wide shot of a 2D Launcher:
 ![2D Launcher](https://raw.githubusercontent.com/ericahlstrom/Doc-Temp/master/images/4-2DLauncher.jpg)
 Here's a closer look:
 ![enter image description here](https://raw.githubusercontent.com/ericahlstrom/Doc-Temp/master/images/4-2DLauncher2.jpg)
+The 2D Launcher is defined by the 
 
-Unique to the Mixed Reality Portal is the 3D Launcher. Once defined in your package manifest file, this replaces
+Unique to the Mixed Reality Portal is the 3D Launcher. Once defined in your package manifest file, this replaces the default 2D Launcher with 
 
 ## Background Color
 
@@ -23,5 +24,5 @@ Unique to the Mixed Reality Portal is the 3D Launcher. Once defined in your pack
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDA2NTg5Nl19
+eyJoaXN0b3J5IjpbLTE2MDEwMDMzMjhdfQ==
 -->
