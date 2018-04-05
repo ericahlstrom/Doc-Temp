@@ -6,7 +6,7 @@ If you are thinking of porting your current Unity VR project to Windows Mixed Re
 - **Setup** - We get familiar with the platform and cover hardware and software requirements.
 - **Runtime** - A chance to understand how Windows Mixed Reality and Unity work together as well as the unique aspects to Windows Mixed Reality.
 - **Hardware** - Here we get into the details around motion controllers, haptics, performance consdierations, etc.
-- **Finishing Touches** - Some relatively minor but important items here to make your app shine and ready to publish.
+- **Finishing Touches** - Some relatively minor but important items here to make your app shine and ready to publish. 
 - **Publish** - Let's walk through submitting your app via the Windows Store.
 
 
@@ -33,5 +33,5 @@ If you are thinking of porting your current Unity VR project to Windows Mixed Re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MjE3MDU1XX0=
+eyJoaXN0b3J5IjpbMTgxMDc5MzkzMV19
 -->
