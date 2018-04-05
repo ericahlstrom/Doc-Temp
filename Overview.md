@@ -19,7 +19,7 @@ If you are thinking of porting your current Unity VR project to Windows Mixed Re
 
 **Cliff House** - Nickname for the VR desktop environment/experience within the Mixed Reality Portal where users launch MR apps and customize their space.
 
-**UWP** - Universal Windows
+**UWP** (Universal Windows Platform) - A platform-homogeneous application architecture created by Microsoft and first introduced in Windows 10.
 
 
 
@@ -33,5 +33,5 @@ If you are thinking of porting your current Unity VR project to Windows Mixed Re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzU4NzIwMl19
+eyJoaXN0b3J5IjpbNjQ0MjE3MDU1XX0=
 -->
