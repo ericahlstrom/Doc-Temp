@@ -14,7 +14,7 @@ Unique to the Mixed Reality Portal is the 3D Launcher. Once defined in your pack
 
 Here is a sample 3D Launcher:
 ![Placeholder](https://raw.githubusercontent.com/ericahlstrom/Doc-Temp/master/images/Placeholder.jpg)
-Users can 
+Users can adjust the scale and rotation of your 3D Launcher in addition to placing it wherever they desire within the Cliff House environment. Even 
 
 ## Set the Background Color
 
@@ -30,5 +30,5 @@ Users can
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzE5OTA4NV19
+eyJoaXN0b3J5IjpbMTc5NTM5MTA5XX0=
 -->
