@@ -28,7 +28,7 @@ By default, the background color is set to white. Currently, the background colo
  3. Select Visual Assets from the top tabs
  4. Click Splash Image from option on the left
  5. Enter the color hexadecimal value into the box
-![enter image description here](https://raw.githubusercontent.com/ericahlstrom/Doc-Temp/master/images/4-SetBackgroundColor.jpg)
+![Set Background Color](https://raw.githubusercontent.com/ericahlstrom/Doc-Temp/master/images/4-SetBackgroundColor.jpg)
 
 ## Define a Splash Image
 
@@ -42,5 +42,5 @@ By default, the background color is set to white. Currently, the background colo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk4MTg0NzRdfQ==
+eyJoaXN0b3J5IjpbLTE5MTI5MTIzNDhdfQ==
 -->
