@@ -3,12 +3,12 @@ As you may know, Unity projects can be easy to port to different platforms or (i
 
 If you are thinking of porting your current Unity VR project to Windows Mixed Reality (Windows MR), these are the key steps you should understand and follow:  
 
-
+Before 
 ## Common Terms
 
 **Windows Mixed Reality** - Microsoft's term for all things between augmented reality and virtual reality. 
 
-**Mixed Reality Portal** - Windows 10 software that is a user's home for mixed reality experiences. 
+**Mixed Reality Portal** - Athat is a user's home for mixed reality experiences. 
 
 ## Create files and folders
 
@@ -145,5 +145,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQ1NDkyNDddfQ==
+eyJoaXN0b3J5IjpbMTUzNDQ4ODIzNF19
 -->
