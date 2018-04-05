@@ -10,7 +10,7 @@ Before
 
 **Mixed Reality Portal** (MRP) - Desktop app that manages mixed reality experiences on Windows 10. Typically auto-starts when a supported headset is plugged into the PC.
 
-**Cliff House** - Nickname for the open concept environment within the Mixed Reality 
+**Cliff House** - Nickname for the VR desktop environment/experience within the Mixed Reality Portal where users launch MR apps and customize their space.
 
 ## Create files and folders
 
@@ -147,5 +147,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI5Nzk3OV19
+eyJoaXN0b3J5IjpbLTYwOTk4MTI0N119
 -->
